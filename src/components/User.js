@@ -2,8 +2,6 @@ import React from 'react'
 import MediaCard from './Card';
 import Button from '@material-ui/core/Button';
 
-
-
 const User = (props) => {
   function returnHome() {
     props.history.push('/');
