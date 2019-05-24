@@ -1,11 +1,6 @@
-.nav-bar {
-  width: 100%;
-  height: 64px;
-  align-items: center;
-  display: flex;
-  flex-flow: row;
-  font-size: 30px;
-  background-color: #2196f3;
+
+.EstiloBarra {
+  background-color: red;
 }
 
 .link-container {

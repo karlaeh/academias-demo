@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin&display=swap');
+
+.format-input {
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.btn .btn-sub {
+  margin-right: 20px;
+}
